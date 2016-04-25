@@ -1,0 +1,143 @@
+body{
+  background-image: url("http://2.bp.blogspot.com/-E2i0yGanI9I/TcHpKwIRgSI/AAAAAAAAAFg/Nz3iItyFtso/s1600/index.html.background.png");
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.div_fondo{
+  border-top:10px;
+  border-bottom: 10px;
+  border-radius: 4px;
+  height: 100%;
+}
+ #top{
+  position: relative;
+  background-color: transparent;
+ }
+
+ #nav_top{
+  border-top: 10px;
+  border-bottom: 10px;
+  background-color: transparent;
+ }
+#nav-mobile li a{
+  font-size: 1em;
+
+  color: white;
+}
+#nav-mobile li a:hover{
+  font-size: 1em;
+  background-color: blue;
+  color: black;
+}
+ #top a{
+
+ 	font-size: 2em;
+ 	font: bold;
+ 	font-family: verdana;
+ 	color: #FFF;
+ }
+
+ #columna_izq{
+ 	float: left;
+ 	width: 14%;
+ }
+
+ #columna_dcha{
+ 	float: right;
+ 	width: 82%;
+ 	background-color: #424242;
+ 	color: white;
+ 	margin: 2%;
+ 	border: 1px solid #e0e0e0;
+ }
+
+ #pie{
+ 	clear: both;
+ }
+
+ .collection .collection-item.active {
+  background-color: #424242;
+  color: #eafaf9;
+}
+
+#destinos .collection .collection-item ul li {
+
+  background: blue;
+}
+footer.page-footer {
+  background-color: #424242;
+}
+
+footer.page-footer .footer-copyright {
+  overflow: hidden;
+  height: 30px;
+  line-height: 30px;
+  color: white;
+  background-color: black;
+}
+
+.card{
+  margin-top: 20px;
+
+}
+
+.collection {
+  margin: 0.5rem 0 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px;
+  overflow: hidden;
+  position: relative;
+}
+
+.collection .collection-item {
+  background-color: #aaa;
+  line-height: 1.5rem;
+  padding: 10px 20px;
+  margin: 0;
+  border-bottom: 1px solid #e0e0e0;
+  color: black;
+  font-size: 20px;
+}
+
+.collection.with-header .collection-header {
+  background-color: #424242;
+}
+
+.div_media_pantalla{
+
+  position: relative;
+  margin-left: 0%;
+  margin-right: 10%;
+  font-size: 1.5em;
+}
+
+#buscar{
+
+  background-color: #58FA58;
+  font-size: 1em;
+  width: 30%;
+  float: left;
+}
+
+#dest::-webkit-input-placeholder{
+  color: lightgrey;
+}
+
+#segunda_transicion{
+  color: black;
+}
+#tercera_transicion{
+  color: #AEB404;
+}
+#cuarta_transicion{
+  color: black;
+}
+#destinos{
+  width: 70%;
+  float: right;
+  background-color: #58FA58;
+  font-size: 1em;
+}
