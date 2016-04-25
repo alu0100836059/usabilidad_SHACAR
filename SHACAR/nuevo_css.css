@@ -1,6 +1,5 @@
 body{
   background-image: url("http://2.bp.blogspot.com/-E2i0yGanI9I/TcHpKwIRgSI/AAAAAAAAAFg/Nz3iItyFtso/s1600/index.html.background.png");
-  width: 75%;
   margin-left: auto;
   margin-right: auto;
 
@@ -110,7 +109,6 @@ footer.page-footer .footer-copyright {
 
   position: relative;
   margin-left: 0%;
-  margin-right: 10%;
   font-size: 1.5em;
 }
 
@@ -118,7 +116,6 @@ footer.page-footer .footer-copyright {
 
   background-color: #58FA58;
   font-size: 1em;
-  width: 30%;
   float: left;
 }
 
@@ -140,4 +137,17 @@ footer.page-footer .footer-copyright {
   float: right;
   background-color: #58FA58;
   font-size: 1em;
+}
+
+.inicioSesion{
+  background-color: lightgrey;
+  margin: auto;
+  align: center;
+
+}
+
+#botonEnviar{
+  float: right;
+  align: center;
+  font: #000;
 }
